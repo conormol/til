@@ -6,7 +6,7 @@ Nicely fit elements inside a page header, or anywhere else that may require diff
 }
 
 .site-header-left {
-    display: inline-block;  /* Display must be inline block so that the site-header-right can be on the same level */
+    display: inline-block;  /* Display must be inline-block so that the site-header-right can be on the same level */
 }
 
 .site-header-right {
