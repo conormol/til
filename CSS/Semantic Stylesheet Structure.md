@@ -1,6 +1,6 @@
 # Basic Stylesheet Structuring
 
-The following sections are used to better format a stylesheet for ease of use
+The following sections are a good format to use when structuring a stylesheet:
 
 ```
 /* Page Styling
