@@ -1,3 +1,5 @@
+# Background Gradient
+
 To add a linear colour gradient to the background of an area
 
 ```
