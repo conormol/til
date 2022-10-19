@@ -1,4 +1,4 @@
-# Display selector
+# Display Selector
 
 The Display Selector is used to define how the element can be displayed on the page
 
