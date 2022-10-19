@@ -1,4 +1,4 @@
-# Basic Stylesheet Structuring
+#Stylesheet Structuring
 
 The following sections are a good format to use when structuring a stylesheet:
 
