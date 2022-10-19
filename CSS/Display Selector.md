@@ -8,7 +8,7 @@ The element spans the full width of the page
 display: block;
 ```
 ## display: inline 
-Elements can be inline with one another and their height and width can be adjusted 
+Elements take up as little space as possible, follow horizontal flow and can have their height and width manually adjusted.
 ```
 display: inline;
 ```
