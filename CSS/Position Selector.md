@@ -9,7 +9,7 @@ position: static;
 ```
 
 ## Relative
-The elemt is in a position relative to its dewfault value using offset properties. This has no effect if no offset values are in place.
+The element is in a position relative to its dewfault value using offset properties. This has no effect if no offset values are in place.
 ```
 position: relative;
 ```
