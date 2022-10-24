@@ -1,4 +1,4 @@
-#Flex: Justify-Content
+# Flex: Justify-Content
 
 This determines the distribution of space between HTML elements within a flex container on the main (horizontal) axis
 
