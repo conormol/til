@@ -7,7 +7,7 @@ Determines the vertical space between items on the cross (vertical) axis of a fl
 Positions items vertically starting with the first item at the top of the container, and no additional space between items
 
 ```
-align-items: flex-start;
+align-content: flex-start;
 ```
 
 ## flex-end
@@ -15,7 +15,7 @@ align-items: flex-start;
 Positions items vertically starting with the last item at the bottom of the container, and no additional space between items
 
 ```
-align-items: flex-end;
+align-content: flex-end;
 ```
 
 ## center
@@ -23,7 +23,7 @@ align-items: flex-end;
 Positions items vertically in the center of the container, with equal space above the top item and below the bottom item, and no additional space between items
 
 ```
-align-items: center;
+align-content: center;
 ```
 
 ## space-around
@@ -31,7 +31,7 @@ align-items: center;
 Creates equal space to above and below each item, so that double spacing appears between the top and bottom of items not at the very top or bottom
 
 ```
-align-items: space-around;
+align-content: space-around;
 ```
 
 ## space-between
@@ -39,7 +39,7 @@ align-items: space-around;
 Creates equal space above and below items, but no space above the very top item or below the very bottom item
 
 ```
-align-items: space-between;
+align-content: space-between;
 ```
 
 
