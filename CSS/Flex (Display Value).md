@@ -1,6 +1,6 @@
-# Flex (Display Property)
+# Flex (Display Value)
 
-The Flex Display Property sets a HTML element as either a block level or inline level flex container, where flex items change size and position based on the size and position of the container.
+The Flex Display Value sets a HTML element as either a block level or inline level flex container, where flex items change size and position based on the size and position of the container.
 
 ## display: flex
 
