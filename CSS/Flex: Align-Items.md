@@ -1,6 +1,6 @@
 # Flex: Align-Items
 
-Aligns items vertically within a parent container (not relative to other items
+Aligns items vertically within a parent container (not relative to other items)
 
 ## flex-start
 
