@@ -24,4 +24,5 @@ row and column sizes can be written in pixels (px), as a percentage of the overa
 
 if multple rows or columns are required, the repeat function can be used. For example, four columns of 300px can be written as:
 ```
+grid-template-columns: repeat(4, 300px);
 ```
