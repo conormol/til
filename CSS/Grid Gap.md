@@ -1,15 +1,15 @@
 # Grid Gap
 
-## grid-row-gap
+## row-gap
 
-Grid row gap sets the size of the gap between grid rows:
+row gap sets the size of the gap between grid rows:
 ```
 grid-row-gap: 10px;
 ```
 
-## grid-column-gap
+## column-gap
 
-Grid column gap sets the size of the gap between columns:
+column gap sets the size of the gap between columns:
 ```
 grid-column-gap: 20px;
 ```
