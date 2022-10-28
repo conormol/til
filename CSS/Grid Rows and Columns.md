@@ -2,7 +2,7 @@
 
 ## grid-template-rows / grid-template-columns
 
-Grids contain one row and column by default. To specify the number of rows and columns in a grid, use the propert 'grid-template-rows' and 'grid-template-columns'. Then enter the size of each row or column, to create as many rows or columns as necessary.
+Grids contain one row and column by default. To specify the number of rows and columns in a grid, use the property 'grid-template-rows' and 'grid-template-columns'. Then enter the size of each row or column, to create as many rows or columns as necessary.
 
 The following will create three rows of 200px and three columns 300px and 400px:
 ```
