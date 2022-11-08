@@ -16,11 +16,32 @@ The grid-template-areas property allows us to name areas of the grid. The proper
 ## css file:
 ```
 .container {
+  display: grid;
   grid-template-areas: "header header"
                        "nav nav"
                        "info services"
                        "footer";
   grid-template: repeat(4, 200px)/ repeat 2(200 px);
+}
+
+header {
+    grid-area: header;
+}
+
+nav {
+    grid-area: nav;
+}
+
+.info {
+    grid-area: info;
+}
+
+.services {
+    grid-area: services;
+}
+
+footer {
+    grid-area: footer;
 }
 ```
 
