@@ -20,7 +20,7 @@ The grid-template-areas property allows us to name areas of the grid. The proper
   grid-template-areas: "header header"
                        "nav nav"
                        "info services"
-                       "footer";
+                       "footer footer";
   grid-template: repeat(4, 200px)/ repeat 2(200 px);
 }
 
