@@ -8,10 +8,6 @@ The justify-items property is used on a grid container to determine how items ar
 
 `justify-items: center;`
 
-`justify-items: space-around;`
-
-`justify-items: space-between;`
-
 `justify-items: stretch;`
 
 
