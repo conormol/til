@@ -28,7 +28,7 @@ Styling for structural elements across file, e.g '.container' classes
 
 ## Module Styles
 
-Styling for all headers and footors and the content they contain, such as logos and site navigation 
+Styling for all headers and footers and the content they contain, such as logos and site navigation 
 
 ## Component Styles
 
