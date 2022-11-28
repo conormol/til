@@ -6,4 +6,4 @@ let name = 'Conor' ;
 
 console.log(typeof name);
 ```
-The above returns the value 'string'
+The above returns the value 'string'.
