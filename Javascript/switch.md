@@ -19,18 +19,19 @@ if (x === 1) {
 This can be re-written as:
 ```
 switch (x) {
-  case '1':
+  case 1:
     console.log('console.log('x equals 1');
     break;
-  case '2':
+  case 2:
     console.log('console.log('x equals 2');
     break;
-  case '3':
+  case 3:
     console.log('console.log('x equals 3');
     break;
   default:
     console.log('x does not equal 1, 2, or 3);
     break;
 }
-  
+```
+Note that Case 1, Case 2, and Case 3 refer to whether x equals the number 1, 2, 3 or three, as opposed to numerical values assigned to each case. If, for example, we were trying to check if x was equal the strings Apple, Banana or Pear, it would read Case 'Apple', Case 'Banana', and Case 'Pear'.  
 
