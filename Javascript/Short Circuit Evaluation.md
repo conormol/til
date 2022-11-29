@@ -13,7 +13,7 @@ if (x) {
 }  
 console.log(y);
 ```
-The code checks if variable x is truthy and assigns its value to x if so. When this condition returns as false, the variable y is then assigned a default value of 1, which is then printed.
+The code checks if variable x is truthy and assigns its value to y if so. When this condition returns as false, the variable y is then assigned a default value of 1, which is then printed.
 
 This can be written in shorthand as:
 ```
