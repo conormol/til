@@ -15,4 +15,4 @@ function greetworld() {
   }
 ```
 
-In the above example, the function keyword is foolowed by the function identifier(greetworld) and a set of brackets, followed by the specific function task of printing Hello World, inside curly brackets
+In the above example, the function keyword is followed by the function identifier(greetworld) and a set of brackets, followed by the specific function task of printing Hello World, inside curly brackets
