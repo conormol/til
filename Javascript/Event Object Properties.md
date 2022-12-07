@@ -1,0 +1,1 @@
+JavaScript stores events as `event` objects with their related data and funtionalities as properties and methods. when an event is triggered, the event object can be passed as an argument to the event handler function
