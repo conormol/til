@@ -1,6 +1,6 @@
 # For Loops
 
-For Loop Syntax is as Follows:
+For loop syntax is as follows:
 
 ``
 for (i=0; i<x; i++) {
