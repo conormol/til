@@ -12,4 +12,6 @@ const myObject: {
   }
 ```
 Here, the `printColour()` method will have access to the `colour` element because the `this` keyword is being used.
+
+Note that arrow notation cannot be used to declare the method if the `this` keyword is to be used.
   
