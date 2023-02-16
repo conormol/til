@@ -17,3 +17,15 @@
   ```
   const objectOne = myObject(firstObject, blue, circle);
   ```
+
+The shorthand for declaring a factory function is as follows: 
+
+ ```
+ const myObject = (name, colour, shape) => {
+  return {
+    name,
+    colour,
+    shape
+    }
+  };
+  ```
