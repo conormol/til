@@ -33,5 +33,5 @@ Common iterators are as follows:
 `findIndex()` returns the index of the first element of an array that satisfies a certain condition. -1 is returned if no element satisfies the condition.
 
 ## reduce()
-`reduce` iterates through elements and retruns a single value
+`reduce` iterates through elements and returns a single value
 
