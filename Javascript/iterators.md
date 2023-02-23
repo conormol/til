@@ -1,4 +1,4 @@
-#Iterators
+# Iterators
 
 Iterator methods are bulit in to Javascript to make looping easier. The general syntax for an iterator method is as follows (including the array to be looped through., and the word'method' to be replaced by the iterator method syntax):
 
@@ -20,18 +20,18 @@ const myIteratorFunction = myArray.method(number => {
 
 Common iterators are as follows:
 
-##forEach()
+## forEach()
 `forEach()` excutes the same code on each element of the array, but does not change the array. It returns `undefined`.
 
-##map()
+## map()
 `map()` executes the same code on every element and returns an updated array with the new elements
 
-##filter()
+## filter()
 `filter()` checks through an array to see if each element meets a certain criteria and returns an array with elements that return `truthy`.
 
-##findIndex()
+## findIndex()
 `findIndex()` returns the index of the first element of an array that satisfies a certain condition. -1 is returned if no element satisfies the condition.
 
-##reduce()
+## reduce()
 `reduce` iterates through elements and retruns a single value
 
