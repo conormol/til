@@ -35,3 +35,12 @@ Common iterators are as follows:
 ## reduce()
 `reduce` iterates through elements and returns a single value
 
+### Passing By Reference
+
+Note that to pass an array by reference into the function, the parameter has to be declared as normal, instead of just referening the array itself:
+```
+
+const myIteratorFunction = arr => arr.method(number => 
+  return number > 2;
+  );
+```
