@@ -39,7 +39,6 @@ Common iterators are as follows:
 
 Note that to pass an array by reference into the function, the parameter has to be declared as normal, instead of just referencing the array itself:
 ```
-
 const myIteratorFunction = arr => arr.method(number => 
   return number > 2;
   );
