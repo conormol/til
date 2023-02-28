@@ -41,7 +41,13 @@ To Access one item, indices can be chained using bracket notation:
 ```
 console.log(myArray[1][0]); // Will Return item3
 ```
+## Copying an Array
 
+Any mutation to a variable containing the original array will also mutate the original array. In order to create a copy of the array for the pupsoes of updating it, the .slice() method can be used. Note that the parameter '0' must be used to undicate that the array must be sliced from the first element. For example, to make reversed copy of the array, while keeping the original array intact:
+```
+originalArray = [1, 2, 3]
+reversedArray = originalArray.slice(0).reverse();
+```
 
 
 
