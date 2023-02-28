@@ -5,10 +5,10 @@ A function stored within an object is called a method. Syntax:
 ```
 
 let myObject = {
-    methodOne () {
+    methodOne() {
       return "This is method one"
       },
-    methodTwo () {
+    methodTwo() {
       return "This is method two"
       },  
    }
