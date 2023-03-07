@@ -51,6 +51,7 @@ A checkbox input presents the user with a number of checkboxes, of which the use
 <label for="option-three">Option 3</label>
 <input type="checkbox" name="option-three" id="option-three">
 ```
+
 ## Radio Button Input
 This is similar to a checkbox, however the user can only select one option:
 ```
@@ -60,4 +61,37 @@ This is similar to a checkbox, however the user can only select one option:
 <input type="radio" name="option-two" id="option-two">
 <label for="option-three">Option 3</label>
 <input type="radio" name="option-three" id="option-three">
+```
+
+# Dropdown List
+Allows users to select an option from a dropdown menu. This uses a `select` tag as opposed to an `input` tag:
+```
+<select id="dropdown" name="options">
+ <option value="option-one">Option One</option>
+ <option value="option-two">Option Two</option>
+ <option value="option-three">Option Three</option>
+</select>
+```
+
+# Datalist
+A datalist is similar to a dropdown, but allows users to type and filter options, and so is better when more options are available. It uses an input to create a text field, then presents filtered options when the user begins to type. The `list` attribute refers in the `input` tag refers to the datalist :
+```
+<input type="text" id="option-list" name="option-list" list="options"> 
+ <datalist id="options" name="options">
+  <option value="option-one">Option One</option>
+  <option value="option-two">Option Two</option>
+  <option value="option-three">Option Three</option>
+ </datalist>
+```
+
+# Textarea element
+A Textarea element is similar to a text box but allows for more than ne line of text. it uses the `textarea` tag:
+```
+<textarea id="user-input" name="user-input" rows="5" cols="30"><textarea>
+```
+
+# Submit Form
+This creates a button to submit the information. The `value` attribute is the text contained within the button:
+```
+<input type="submit" value="Send">
 ```
