@@ -20,3 +20,24 @@ This stores an instance of the class into a variable named `apple`, passing in t
 
 ## Class Methods
 
+The syntax for add methods and getters in classes is the same as objects, except that the use of commas between them is omitted:
+```
+class Food {
+  constuctor(name, type) {
+    this._name = name;
+    this._type = type;
+   }
+    
+  get name() {
+    return this._name;
+  }
+  
+  get type() {
+    return this._type;
+  }
+}
+```
+
+
+
+
