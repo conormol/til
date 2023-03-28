@@ -1,6 +1,10 @@
 # Prompt-Sync
 
-The `prompt-sync` Node module provides an easy method of working wit user input. To use this, Node and NPM have to be installed, and the following command must be run in the terminal to run npm install prompt-sync:
+The `prompt-sync` Node module provides an easy method of working wit user input. To use this, Node and NPM have to be installed, using the following command in the terminal:
+```
+npm install prompt-sync
+```
+We can then assign this to a constant variab;=le (usually `prompt`) in the program file:
 
 ```
 const prompt = require('prompt-sync')();
