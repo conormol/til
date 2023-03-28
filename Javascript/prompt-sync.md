@@ -20,7 +20,7 @@ const prompt = require('prompt-sync')({signit: true});
 ## Working with numbers
 Note that numbers are input as a string, and so to treat them as numbers, they need to be converted. This can be done using `Number()`: 
 ```
-const const prompt = require('prompt-sync')({signit: true});
+const prompt = require('prompt-sync')({signit: true});
 
 const num = prompt ('input a number: ');
 Number(num);
